@@ -22,6 +22,8 @@ I help small businesses and agencies turn repetitive processes into reliable aut
 
 > Every enquiry captured, cleaned, qualified by AI and followed up — without a single lead slipping through.
 
+[![LeadFlow lead alerts in Gmail, each with an AI score and urgency](https://raw.githubusercontent.com/motayyabautomation/leadflow-case-study/main/screenshots/02-lead-alerts-inbox.jpg)](https://github.com/motayyabautomation/leadflow-case-study)
+
 ```
 Website form ─┐                               ┌─ new ───────► Gemini (strict JSON) → validate → Sheets CRM → alert
 Lead emails  ─┼─► clean & validate ─► dedupe ─┼─ returning ─► update original row → alert
