@@ -1,24 +1,24 @@
 # Hi, I'm Muhammad Tayyab 👋
 
-**Automation specialist — I build n8n + AI workflows that capture leads, cut manual work, and never fail silently.**
+**Learning AI & workflow automation with n8n — building practical workflows for lead intake and follow-up.**
 
-I help small businesses and agencies turn repetitive processes into reliable automations: connecting their tools, adding AI where it genuinely helps, and keeping a human in the loop where it matters.
+I'm learning by building workflows for real small-business problems: connecting everyday tools, adding AI where it genuinely helps, and keeping a human in the loop where it matters.
 
 ---
 
-### 🛠️ What I build
+### 🛠️ What I'm building and practising
 
 - **Lead capture & qualification** — forms, inboxes and marketplaces → one clean CRM, with AI scoring and reply drafts
-- **AI-assisted workflows** — structured LLM output (Gemini / OpenAI) with validation and safe fallbacks
+- **AI-assisted workflows** — structured LLM output (Gemini) with validation and safe fallbacks
 - **Integrations** — Google Workspace, Gmail, Sheets, webhooks and REST APIs
 - **Notifications & follow-ups** — alerts, daily digests, reminders, so nothing slips through
-- **Production basics, every time** — retries, error workflows, deduplication, logging and tests
+- **Good habits in every build** — retries, error workflows, deduplication, logging and tests
 
 ---
 
 ### ⭐ Featured project
 
-#### [LeadFlow — AI lead intake & follow-up automation](https://github.com/motayyabautomation/leadflow-case-study)
+#### [LeadFlow — AI lead intake & follow-up automation (demo project)](https://github.com/motayyabautomation/leadflow-case-study)
 
 > Every enquiry captured, cleaned, qualified by AI and followed up — without a single lead slipping through.
 
@@ -41,7 +41,7 @@ Any failure ─► Error Log + email alert
 
 **Stack:** n8n · Gemini API · Google Sheets · Gmail · JavaScript · Docker
 
-📄 [Read the case study →](https://github.com/motayyabautomation/leadflow-case-study) · Full source available to clients on request.
+📄 [Read the case study →](https://github.com/motayyabautomation/leadflow-case-study) · Full source available on request.
 
 ---
 
@@ -60,7 +60,7 @@ Any failure ─► Error Log + email alert
 
 ### 🤝 How I work
 
-**Simple, reliable, easy to maintain.** Every workflow I deliver comes with error handling, a test mode with sample data, a one-place config, and setup documentation, so you can run it without me.
+**Simple, reliable, easy to maintain.** Every workflow I build comes with error handling, a test mode with sample data, a one-place config, and setup documentation, so you can run it without me.
 
 ### 📫 Work with me
 
@@ -68,4 +68,4 @@ Have a repetitive process that eats your team's time? I'd like to hear about it.
 
 [![Hire me on Freelancer](https://img.shields.io/badge/Hire_me_on-Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.pk/u/tayyabm03)
 
-📍 Pakistan · UTC+5 · available full-time for freelance projects
+📍 Pakistan · UTC+5 · open to first projects and collaborations
