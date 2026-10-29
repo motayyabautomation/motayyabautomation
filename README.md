@@ -16,9 +16,9 @@ I'm learning by building workflows for real small-business problems: connecting 
 
 ---
 
-### ⭐ Featured project
+### ⭐ My first product
 
-#### [LeadFlow — AI lead intake & follow-up automation (demo project)](https://github.com/motayyabautomation/leadflow-case-study)
+#### [LeadFlow — AI lead intake & follow-up automation](https://github.com/motayyabautomation/leadflow-case-study)
 
 > Every enquiry captured, cleaned, qualified by AI and followed up — without a single lead slipping through.
 
