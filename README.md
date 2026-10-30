@@ -67,5 +67,8 @@ Any failure ─► Error Log + email alert
 Have a repetitive process that eats your team's time? I'd like to hear about it.
 
 [![Hire me on Freelancer](https://img.shields.io/badge/Hire_me_on-Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.pk/u/tayyabm03)
+[![Hire me on Fiver](https://img.shields.io/badge/Hire_me_on-Fiver-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.fiverr.com/motayyab2/build-an-ai-lead-capture-and-follow-up-automation-in-n8n)
+
+
 
 📍 Pakistan · UTC+5 · open to first projects and collaborations
